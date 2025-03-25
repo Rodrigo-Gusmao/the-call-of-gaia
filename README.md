@@ -1,2 +1,25 @@
-# the-call-of-gaia
-Jogo de aventura e plataforma desenvolvido em C# com Godot para meu TCC na ETEC. A protagonista pode se transformar em animais, adquirindo habilidades únicas para explorar o mundo e superar desafios.
+# 🦊 **The Call of Gaia** 🦅
+
+TransformaQuest é um jogo de aventura e plataforma, desenvolvido como parte do meu TCC no curso técnico de **Desenvolvimento de Sistemas** na **ETEC**. No jogo, a protagonista tem a habilidade de se transformar em diversos animais, cada um com poderes especiais, ajudando a superar desafios e explorar um mundo cheio de mistérios.
+
+## 🔧 **Tecnologias Utilizadas**
+
+- **Engine:** Godot 4
+- **Linguagem:** C#
+- **Plataforma:** PC *(Windows)*
+- **Arte:** [Pixel Art / 2D]
+
+## 🚀 **Status do Projeto**
+
+- **Projeto acadêmico descontinuado**  
+- Versão **Alpha** com mecânicas principais implementadas.
+
+## 🛠️ **Como Rodar o Projeto**
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/TransformaQuest.git
+
+2. Abra o projeto no Godot 4.
+
+3. Execute a cena principal para testar o jogo!
