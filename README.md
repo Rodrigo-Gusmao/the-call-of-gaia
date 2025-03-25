@@ -18,7 +18,7 @@ TransformaQuest é um jogo de aventura e plataforma, desenvolvido como parte do 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/TransformaQuest.git
+   git clone [ https://github.com/Rodrigo-Gusmao/the-call-of-gaia ]
 
 2. Abra o projeto no Godot 4.
 
